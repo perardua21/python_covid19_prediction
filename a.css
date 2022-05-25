@@ -1,0 +1,25 @@
+body{
+    background-color: cornflowerblue;
+    background-size:100%;
+    margin: 0px;
+    position: relative;
+    z-index: 1;
+}
+.asdf{
+    text-align: center;
+}
+.asdf a{
+    text-decoration: none;
+    color: black;
+}
+ul{
+    text-align: center;
+    border-top: 3px whitesmoke solid;
+    border-bottom:3px whitesmoke solid; 
+    list-style: none;
+    text-align: center;
+    padding:10px;
+}
+img {
+    display: block; margin: 0px auto; 
+}
